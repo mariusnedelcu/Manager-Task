@@ -1,0 +1,10 @@
+C:\Users\sergi\Desktop\IP\Proiect\Proiect_IP-feat\Proiect_IP_Final\Authentication\Proxy\bin\Debug\Proxy.dll
+C:\Users\sergi\Desktop\IP\Proiect\Proiect_IP-feat\Proiect_IP_Final\Authentication\Proxy\bin\Debug\Proxy.pdb
+C:\Users\sergi\Desktop\IP\Proiect\Proiect_IP-feat\Proiect_IP_Final\Authentication\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Desktop\IP\Proiect\Proiect_IP-feat\Proiect_IP_Final\Authentication\Proxy\obj\Debug\Proxy.dll
+C:\Users\sergi\Desktop\IP\Proiect\Proiect_IP-feat\Proiect_IP_Final\Authentication\Proxy\obj\Debug\Proxy.pdb
+C:\Users\Raluca\Desktop\Proiect_IP_Final\Authentication\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Raluca\Desktop\Proiect_IP_Final\Authentication\Proxy\obj\Debug\Proxy.dll
+C:\Users\Raluca\Desktop\Proiect_IP_Final\Authentication\Proxy\obj\Debug\Proxy.pdb
+C:\Users\Raluca\Desktop\Proiect_IP_Final\Authentication\Proxy\bin\Debug\Proxy.dll
+C:\Users\Raluca\Desktop\Proiect_IP_Final\Authentication\Proxy\bin\Debug\Proxy.pdb

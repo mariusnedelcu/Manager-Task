@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Taskuri>
+  <task>
+    <name>cvb</name>
+    <details></details>
+    <pathImage>im1.png</pathImage>
+    <status>DONE</status>
+    <starTime>2021-05-30T12:53:12.2273769+03:00</starTime>
+    <endTime>2021-05-30T12:53:12.2135952+03:00</endTime>
+    <userName>a</userName>
+  </task>
+  <task>
+    <name>jk</name>
+    <details></details>
+    <pathImage>im1.png</pathImage>
+    <status>DOING</status>
+    <starTime>2021-05-30T13:12:05.9240119+03:00</starTime>
+    <endTime>2021-05-30T13:12:05.9102+03:00</endTime>
+    <userName>a</userName>
+  </task>
+  <task>
+    <name>fgh</name>
+    <details></details>
+    <pathImage>im3.gif</pathImage>
+    <status>TODO</status>
+    <starTime>2021-05-19T14:03:26</starTime>
+    <endTime>2021-05-10T14:03:26</endTime>
+    <userName>a</userName>
+  </task>
+  <task>
+    <name>sergo</name>
+    <details>si asa</details>
+    <pathImage>im3.gif</pathImage>
+    <status>DONE</status>
+    <starTime>2021-05-25T14:04:53</starTime>
+    <endTime>2021-05-30T14:04:53.9755758+03:00</endTime>
+    <userName>a</userName>
+  </task>
+  <task>
+    <name>asd</name>
+    <details>asdfgh</details>
+    <pathImage>im3.gif</pathImage>
+    <status>TODO</status>
+    <starTime>2021-06-17T08:42:54</starTime>
+    <endTime>2021-06-25T08:42:54</endTime>
+    <userName>a</userName>
+  </task>
+  <task>
+    <name>sdad</name>
+    <details></details>
+    <pathImage>im2.jpg</pathImage>
+    <status>TODO</status>
+    <starTime>01-Jun-21 17:06:53</starTime>
+    <endTime>01-Jun-21 17:06:53</endTime>
+    <userName>raluca</userName>
+  </task>
+  <task>
+    <name>Tema PW</name>
+    <details>In Prelucrare</details>
+    <pathImage>im3.gif</pathImage>
+    <status>DOING</status>
+    <starTime>2021-06-01T19:30:06.256332+03:00</starTime>
+    <endTime>2021-06-02T19:30:06</endTime>
+    <userName>a</userName>
+  </task>
+</Taskuri>

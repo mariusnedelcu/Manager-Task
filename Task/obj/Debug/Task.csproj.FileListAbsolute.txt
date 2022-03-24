@@ -1,0 +1,11 @@
+C:\Users\sergi\Desktop\IP\Proiect\Proiect_IP-feat\Proiect_IP_Final\Authentication\Task\bin\Debug\Task.dll
+C:\Users\sergi\Desktop\IP\Proiect\Proiect_IP-feat\Proiect_IP_Final\Authentication\Task\bin\Debug\Task.pdb
+C:\Users\sergi\Desktop\IP\Proiect\Proiect_IP-feat\Proiect_IP_Final\Authentication\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\sergi\Desktop\IP\Proiect\Proiect_IP-feat\Proiect_IP_Final\Authentication\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Desktop\IP\Proiect\Proiect_IP-feat\Proiect_IP_Final\Authentication\Task\obj\Debug\Task.dll
+C:\Users\sergi\Desktop\IP\Proiect\Proiect_IP-feat\Proiect_IP_Final\Authentication\Task\obj\Debug\Task.pdb
+C:\Users\Raluca\Desktop\Proiect_IP_Final\Authentication\Task\bin\Debug\Task.dll
+C:\Users\Raluca\Desktop\Proiect_IP_Final\Authentication\Task\bin\Debug\Task.pdb
+C:\Users\Raluca\Desktop\Proiect_IP_Final\Authentication\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\Raluca\Desktop\Proiect_IP_Final\Authentication\Task\obj\Debug\Task.dll
+C:\Users\Raluca\Desktop\Proiect_IP_Final\Authentication\Task\obj\Debug\Task.pdb
